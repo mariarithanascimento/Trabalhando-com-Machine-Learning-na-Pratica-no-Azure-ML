@@ -56,7 +56,7 @@ A tela seguinte deve ser preenchida com as seguintes configurações:
 - ***Tipo de computação**: Instância de Contêiner do Azure*
 - ***Habilitar autenticação:** selecionado*
 
->>> Implantar
+Implantar
 
 ![Untitled](Trabalhando%20com%20Machine%20Learning%20na%20Pra%CC%81tica%20no%20Az%20354904732fb949a9811fea398d62efed/Untitled%204.png)
 
